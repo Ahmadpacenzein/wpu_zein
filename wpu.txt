@@ -1,2 +1,3 @@
 ini contoh commit dan history 
 1. ini perubahan pertama
+2. ini adalah perubahan kedua dari file txt wpu
